@@ -23,3 +23,50 @@ En este proyecto se emplea el dataset [Disney+ Movies and TV Shows](https://www.
 - <b> duration:</b> duración total
 - <b> listed in:</b> género(s)
 - <b> description:</b> descripción del material
+
+## Resultados
+
+El notebook empleado para la obtención de resultados se encuentra [aquí](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/src/EDA_DisneyPlus.ipynb).
+
+- En la base de datos hay 1052 películas y 398 series de televisión.
+- El rango de fechas de adición de películas/series va desde 01/10/2019 hasta 26/11/2021.
+- El rango de fechas de estreno de películas/series va desde 1928 hasta 2021.
+- Las clasificaciones de las películas/series:
+    * TV-G
+    * PG
+    * TV-PG
+    * PG-13
+    * TV-14
+    * G
+    * TV-Y7
+    * TV-Y
+    * TV-Y7-FV
+- Hay 45 géneros distintos, entre los cuales se encuentran: 
+    * Anime
+    * Series
+    * Family
+    * Sports
+    * Documentary
+    * Romance
+    * Disaster
+    * Crime
+    * Fantasy
+    * Historical
+- Existen 49 países distintos de producción, entre los cuales se encuentran: 
+    * Denmark
+    * Sweden
+    * Iran
+    * Mexico
+    * United Arab Emirates
+    * Poland
+    * Austria
+    * Ireland
+    * South Korea
+    * Belgium
+
+![](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/results/generos_1.png)
+![](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/results/pais_2.png)
+![](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/results/clasificacion.png)
+![](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/results/titulo.png)
+![](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/results/descripcion.png)
+
