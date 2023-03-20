@@ -26,6 +26,8 @@ En este proyecto se emplea el dataset [Disney+ Movies and TV Shows](https://www.
 
 ## Resultados
 
+Publicación en [LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7043409114521116673/).
+
 El notebook empleado para la obtención de resultados se encuentra [aquí](https://github.com/AlbertoMCD/EDA_DisneyPlus/blob/main/src/EDA_DisneyPlus.ipynb).
 
 - En la base de datos hay 1052 películas y 398 series de televisión.
